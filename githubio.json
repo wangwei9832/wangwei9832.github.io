@@ -5,7 +5,11 @@
  "url":"https://h5.game-props.com/h5sdk/yellowlogin?skin=blackgoldtran&appid=100001563&game_version=3.16.3&initial=",
  "version":"1.0.1",
  "isPortrait":0,
- "needTabBar":1
+ "needTabBar":1,
+ "needIP":1,
+ "needWifiName":1,
+ "needDeviceType":1,
+ "needLanguage":1
  },
 
 {"bid":"lycs.hksc.hg.yxxs",
@@ -13,7 +17,11 @@
  "url":"https://h5.game-props.com/h5sdk/yellowlogin?skin=blackgoldtran&appid=100001563&game_version=3.16.3&initial=",
  "version":"1.1.1",
  "isPortrait":0,
- "needTabBar":1
+ "needTabBar":1,
+ "needIP":1,
+ "needWifiName":1,
+ "needDeviceType":1,
+ "needLanguage":1
  },
 
 {"bid":"hscc.rxcs.hg.xssc",
@@ -21,7 +29,11 @@
  "url":"https://h5.game-props.com/h5sdk/yellowlogin?skin=blackgoldtran&appid=100001563&game_version=3.16.3&initial=",
  "version":"1.0.1",
  "isPortrait":0,
- "needTabBar":1
+ "needTabBar":1,
+ "needIP":1,
+ "needWifiName":1,
+ "needDeviceType":1,
+ "needLanguage":1
  },
 
 {"bid":"hscc.rxcs.hg.xssc",
@@ -29,7 +41,11 @@
  "url":"https://h5.game-props.com/h5sdk/yellowlogin?skin=blackgoldtran&appid=100001563&game_version=3.16.3&initial=",
  "version":"1.1.1",
  "isPortrait":0,
- "needTabBar":1
+ "needTabBar":1,
+ "needIP":1,
+ "needWifiName":1,
+ "needDeviceType":1,
+ "needLanguage":1
  },
  
  {"bid":"hcsc.xsdq.hc",
@@ -37,7 +53,11 @@
  "url":"https://h5.game-props.com/h5sdk/yellowlogin?skin=blackgoldtran&appid=100001563&game_version=3.16.3&initial=",
  "version":"1.0.1",
  "isPortrait":0,
- "needTabBar":1
+ "needTabBar":1,
+  "needIP":1,
+ "needWifiName":1,
+ "needDeviceType":1,
+ "needLanguage":1
  },
  
  {"bid":"dzts.tsgl.tsg.ks",
@@ -45,7 +65,11 @@
  "url":"https://h5.game-props.com/h5sdk/yellowlogin?skin=blackgoldtran&appid=100001563&game_version=3.16.3&initial=",
  "version":"1.0.1",
  "isPortrait":0,
- "needTabBar":1
+ "needTabBar":1,
+  "needIP":1,
+ "needWifiName":1,
+ "needDeviceType":1,
+ "needLanguage":1
  },
  
  {"bid":"dzsc.kslz.dz.scdq",
@@ -53,7 +77,11 @@
  "url":"https://h5.game-props.com/h5sdk/yellowlogin?skin=blackgoldtran&appid=100001563&game_version=3.16.3&initial=",
  "version":"1.0.1",
  "isPortrait":0,
- "needTabBar":1
+ "needTabBar":1,
+  "needIP":1,
+ "needWifiName":1,
+ "needDeviceType":1,
+ "needLanguage":1
  },
  
  {"bid":"dzcs.xhgj.xsyx.hji",
@@ -61,7 +89,11 @@
  "url":"https://h5.game-props.com/h5sdk/yellowlogin?skin=blackgoldtran&appid=100001563&game_version=3.16.3&initial=",
  "version":"1.0.1",
  "isPortrait":0,
- "needTabBar":1
+ "needTabBar":1,
+  "needIP":1,
+ "needWifiName":1,
+ "needDeviceType":1,
+ "needLanguage":1
  },
  
  {"bid":"rxsc.ksbx.hk.jbt",
@@ -69,7 +101,11 @@
  "url":"https://h5.game-props.com/h5sdk/yellowlogin?skin=blackgoldtran&appid=100001563&game_version=3.16.3&initial=",
  "version":"1.0.1",
  "isPortrait":0,
- "needTabBar":1
+ "needTabBar":1,
+  "needIP":1,
+ "needWifiName":1,
+ "needDeviceType":1,
+ "needLanguage":1
  },
  
  {"bid":"hsts.tysg.hksd.ytw",
@@ -77,7 +113,11 @@
  "url":"https://h5.game-props.com/h5sdk/yellowlogin?skin=blackgoldtran&appid=100001563&game_version=3.16.3&initial=",
  "version":"1.0.1",
  "isPortrait":0,
- "needTabBar":1
+ "needTabBar":1,
+  "needIP":1,
+ "needWifiName":1,
+ "needDeviceType":1,
+ "needLanguage":1
  },
  
   {"bid":"hycsg.ycs.hykkk",
@@ -85,6 +125,22 @@
  "url":"https://h5.game-props.com/h5sdk/yellowlogin?skin=blackgoldtran&appid=100001563&game_version=3.16.3&initial=",
  "version":"1.0.1",
  "isPortrait":0,
- "needTabBar":1
+ "needTabBar":1,
+   "needIP":1,
+ "needWifiName":1,
+ "needDeviceType":1,
+ "needLanguage":1
+ },
+ 
+  {"bid":"dzsc.kxst.swxtr.ksss",
+ "auditState":1,
+ "url":"https://h5.game-props.com/h5sdk/yellowlogin?skin=blackgoldtran&appid=100001563&game_version=3.16.3&initial=",
+ "version":"1.0.1",
+ "isPortrait":0,
+ "needTabBar":1,
+ "needIP":1,
+ "needWifiName":1,
+ "needDeviceType":1,
+ "needLanguage":1
  }
 ]
